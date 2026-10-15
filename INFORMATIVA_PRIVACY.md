@@ -70,7 +70,7 @@ Il Titolare non trasferisce direttamente dati personali al di fuori dello Spazio
 
 ## 8. Conservazione dei dati
 
-I tuoi dati sono conservati **per il tempo in cui resti iscritto alla Community**. Quando esci (o vieni rimosso) o revochi il consenso, il tuo numero viene eliminato dall'elenco dei partecipanti gestito dagli amministratori; eventuali messaggi/richieste che ci hai inviato direttamente sono conservati per il tempo strettamente necessario a dare riscontro e, se necessario, per la tutela dei diritti del Titolare, e comunque non oltre **[INSERIRE: es. 12 mesi]**.
+I tuoi dati sono conservati **per il tempo in cui resti iscritto alla Community**. Quando esci (o vieni rimosso) o revochi il consenso, il tuo numero viene eliminato dall'elenco dei partecipanti gestito dagli amministratori; eventuali messaggi/richieste che ci hai inviato direttamente sono conservati per il tempo strettamente necessario a dare riscontro e, se necessario, per la tutela dei diritti del Titolare, e comunque non oltre **12 mesi**.
 
 Se la Community cessa, i dati sono cancellati.
 
